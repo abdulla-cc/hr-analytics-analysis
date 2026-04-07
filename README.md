@@ -17,9 +17,6 @@ employee turnover.
 - Males leave more than females (63% vs 37%)
 - Overtime significantly increases attrition
 
-## Dashboard
-![Dashboard]("C:\Users\Abdul\OneDrive\Desktop\PEOJECTS\hr-analytics-dashboard\Dashboard\dashboard.png")
-
 ## Dataset
 - Source: Kaggle
 - Dataset: IBM HR Analytics Employee Attrition
