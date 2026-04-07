@@ -18,7 +18,7 @@ employee turnover.
 - Overtime significantly increases attrition
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard]("C:\Users\Abdul\OneDrive\Desktop\PEOJECTS\hr-analytics-dashboard\Dashboard\dashboard.png")
 
 ## Dataset
 - Source: Kaggle
